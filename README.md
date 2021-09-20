@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=yahyasghayron&count_private=true&theme=tokyonight&showicons=true)]()
+![languages](https://raw.githubusercontent.com/yahyasghayron/template1/5c884074cfe09f59a816ee0f7fac5d6cf8cb2776/generated/languages.svg)
+![stuff](https://raw.githubusercontent.com/yahyasghayron/template1/82168367054b017f0e51a034a1c559997ec3ec57/generated/overview.svg)
