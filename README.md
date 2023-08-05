@@ -10,4 +10,4 @@
   </a>
 </p>
 
-![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyasghayron&theme=radical&hide=contribs,prs)
+![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyasghayron&theme=solarized-dark&hide=contribs,prs)
