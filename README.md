@@ -9,3 +9,5 @@
     <img src="https://skillicons.dev/icons?i=git,php,laravel,javascript,vue,docker" />
   </a>
 </p>
+
+![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyasghayron&hide=contribs,prs)
