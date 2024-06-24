@@ -10,4 +10,5 @@
   </a>
 </p>
 
+[![Yahya's GitHub Streak](https://streak-stats.demolab.com?user=yahyasghayron&theme=transparent&hide_longest_streak=true)](https://git.io/streak-stats)
 ![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyasghayron&theme=transparent)
