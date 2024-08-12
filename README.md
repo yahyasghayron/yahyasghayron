@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a CRM project 
+- 🔭 I’m currently trying the "**Build your own BitTorrent challenge!**"
 - 🌱 check out [my blog](https://techmasteryblog.com/)
 - 📫 How to reach me: [facebook](https://www.facebook.com/yahya.sghayron.56) [twitter](https://twitter.com/SghYahya)
 
